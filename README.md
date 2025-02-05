@@ -1,15 +1,21 @@
 Hi, My name is Davies Aniefiok
 =======================================================================================================================================
 
-I'm a Software Engineer
+A seasoned Software Engineer with over 4+ years of experience
 -----------------
 
-I've been learning to code for 5 years, I'm particularly interested in Frontend designs after joining Alx\_Africa SWE program. I'm a quick learner, I love to take on new challenges, and I'm good with people.
+I specialize in creating scalable and robust solutions that drive business success. With expertise in programming languages like Python, JavaScript, C#, and TypeScript, I have built high-performing APIs and optimized complex databases using PostgreSQL, MySQL, and Redis.
+
+Over the years, I have contributed to a variety of projects, including SaaS platforms, cryptocurrency systems, and agricultural marketplaces, leveraging frameworks like Node.js/express.js, Flask, ASP.NET and FastAPI. My hands-on experience in DevOps tools such as Docker, Git, and CI/CD pipelines ensures efficient deployment and seamless integration of solutions.
+
+Collaboration and problem-solving are at the heart of my approach. Whether it’s designing real-time messaging systems, integrating payment gateways, or optimizing API response times, I bring analytical thinking and teamwork to every project.
+
+I am committed to continuous learning and staying at the forefront of technology, always striving to tackle new challenges with creativity and determination. Let’s connect to discuss how I can contribute to your next big idea or join forces to solve complex business challenges.
 
 * 🌍  I'm based in Calabar, Nigeria
 * ✉️  You can contact me at [daviesaniefiok32@gmail.com](mailto:daviesaniefiok32@gmail.com)
-* 🧠  I'm learning Software Engineering with Alx\_africa
-* 🤝  I'm open to collaborating on Frontend projects
+* 🧠  I'm currently building an AI powered vscode extension for github productivity
+* 🤝  I'm open to collaborating on projects
 
 <a href="https://www.github.com/dsparrowm" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/dsparrowm?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/dsparrowm" target="_blank" rel="noreferrer"><img
