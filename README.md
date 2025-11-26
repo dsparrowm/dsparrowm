@@ -1,18 +1,18 @@
 Hi, My name is Davies Aniefiok
 =======================================================================================================================================
 
-A seasoned Software Engineer with over 4+ years of experience
+A seasoned Software Engineer with over 5+ years of experience
 -----------------
 
-I specialize in creating scalable and robust solutions that drive business success. With expertise in programming languages like Python, JavaScript, C#, and TypeScript, I have built high-performing APIs and optimized complex databases using PostgreSQL, MySQL, and Redis.
+I specialize in creating scalable and robust solutions that drive business success. With expertise in programming languages like Python, JavaScript, C#, and TypeScript, I have built high-performing web apps, APIs and optimized complex databases using PostgreSQL, MySQL, and Redis.
 
-Over the years, I have contributed to a variety of projects, including SaaS platforms, cryptocurrency systems, and agricultural marketplaces, leveraging frameworks like Node.js/express.js, Flask, ASP.NET and FastAPI. My hands-on experience in DevOps tools such as Docker, Git, and CI/CD pipelines ensures efficient deployment and seamless integration of solutions.
+Over the years, I have contributed to a variety of projects, including SaaS platforms,cross-border financial web applications, cryptocurrency systems, and agricultural marketplaces, leveraging frameworks like Reactjs, Nextjs, Node.js/express.js, Flask, and FastAPI. My hands-on experience in DevOps tools such as Docker, Git, and CI/CD pipelines ensures efficient deployment and seamless integration of solutions.
 
 Collaboration and problem-solving are at the heart of my approach. Whether it’s designing real-time messaging systems, integrating payment gateways, or optimizing API response times, I bring analytical thinking and teamwork to every project.
 
 I am committed to continuous learning and staying at the forefront of technology, always striving to tackle new challenges with creativity and determination. Let’s connect to discuss how I can contribute to your next big idea or join forces to solve complex business challenges.
 
-* 🌍  I'm based in Calabar, Nigeria
+* 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [daviesaniefiok32@gmail.com](mailto:daviesaniefiok32@gmail.com)
 * 🧠  I'm currently building an AI powered vscode extension for github productivity
 * 🤝  I'm open to collaborating on projects
