@@ -3,7 +3,7 @@
 **Frontend Engineer · React · Next.js · TypeScript** — 6+ years building production web apps for enterprise, fintech/compliance, and SaaS teams. Based in Calabar, Nigeria 🇳🇬 · open to remote.
 
 ### What I'm working on
-- **Rokswood Group** (Frontend Engineer, full-time since Jan 2025)
+- **Rokswood Group** (Frontend Engineer)
   - **Rokswood Hive**: internal enterprise suite used by staff: CRM, task & project management, document vault, communication, wallets & payroll, and warehouse/inventory modules.
   - **Rokswood Marketplace**: built the storefront UI end to end and integrated it into Hive, so admins manage products and orders without leaving the platform.
   - Hive mobile app (Android).
