@@ -7,7 +7,6 @@
   - **Rokswood Hive**: internal enterprise suite used by staff: CRM, task & project management, document vault, communication, wallets & payroll, and warehouse/inventory modules.
   - **Rokswood Marketplace**: built the storefront UI end to end and integrated it into Hive, so admins manage products and orders without leaving the platform.
   - Hive mobile app (Android).
-- **UnifyComply** (Frontend Engineer): KYC/AML compliance platform. ReKYC/ReKYB officer queues, transaction-monitoring desks, and a rules editor.
 - **naijaDeploy**: a Nigeria-first deploy platform (Git → build → live URL, Paystack billing). [Live](https://naijadeploy-v2.vercel.app)
 
 ### Selected work
